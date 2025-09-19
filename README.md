@@ -173,11 +173,6 @@ pc-maintenance-dashboard/
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🤝 Support
-
-- **Issues**: [GitHub Issues](https://github.com/yourusername/pc-maintenance-dashboard/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/pc-maintenance-dashboard/discussions)
-- **Email**: your.email@example.com
 
 ## 🙏 Acknowledgments
 
@@ -194,4 +189,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Made with ❤️ for system optimization enthusiasts**
+**Made with ❤️**
